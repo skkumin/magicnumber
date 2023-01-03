@@ -8,6 +8,17 @@
 ![image](https://user-images.githubusercontent.com/98961173/210344029-4f321d97-b568-47c8-9831-73666b3be639.png)  
   
 (개선된 magic number 툴의 제시어)  
-![image](https://user-images.githubusercontent.com/98961173/210344073-62caa04e-8558-48f0-97e1-4f0f967a7359.png)  
+![image](https://user-images.githubusercontent.com/98961173/210344567-20443f47-2b5b-48ef-b8af-a66ef1d729da.png)
+
   
 해당 repository의 툴 사용설명서를 참고하면 Python을 다를줄 모르는 사람도 쉽게 해당 프로그램을 사용할 수 있다.
+  
+아래는 해당 프로그램을 실행했을때의 이미지이다.
+
+![image](https://user-images.githubusercontent.com/98961173/210344684-58fca85f-409f-4d29-be06-db91780918df.png) 
+  
+![image](https://user-images.githubusercontent.com/98961173/210344784-bec53601-1d60-4288-9d6a-55fc9fb94f9f.png)  
+  
+![image](https://user-images.githubusercontent.com/98961173/210344854-fbb8bf3d-3d49-44a6-b919-423c245698d2.png)  
+
+
